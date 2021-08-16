@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\miniProjektas.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\miniProjektas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\miniProjektas.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\miniProjektas.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\miniProjektas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\bin\Debug\net5.0\miniProjektas.exe
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\bin\Debug\net5.0\miniProjektas.deps.json
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\bin\Debug\net5.0\miniProjektas.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\bin\Debug\net5.0\miniProjektas.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\bin\Debug\net5.0\miniProjektas.dll
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\bin\Debug\net5.0\ref\miniProjektas.dll
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\bin\Debug\net5.0\miniProjektas.pdb
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\miniProjektas.dll
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\ref\miniProjektas.dll
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\miniProjektas.pdb
+C:\Users\Admin\Desktop\C#\miniProjektas\miniProjektas\miniProjektas\obj\Debug\net5.0\miniProjektas.genruntimeconfig.cache
